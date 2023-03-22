@@ -1,2 +1,2 @@
-- docker-compose up: build, create and start container.\
+- docker-compose up: build, create and start container.
 - docker-compose down: stop and remove containers, networks and volumes created by 'docker-compose up'
